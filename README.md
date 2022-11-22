@@ -1,4 +1,3 @@
 # UpdatedPortfolio
 Portfolio website with JavaScript/Html/Css
-https://dorothy-portfolio-79bffa.netlify.app/
-
+https://dorothy-portfolio.netlify.app/
